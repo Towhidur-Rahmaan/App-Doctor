@@ -47,9 +47,9 @@ const InstalledApps = () => {
     <div className="px-10 py-10">
       {/* Toast */}
       {toast && (
-        <div className="toast toast-top toast-end">
-          <div className="alert alert-success">
-            <span>{toast}</span>
+        <div className="fixed top-5 right-5 z-50">
+          <div className="bg-green-500 text-white p-4 rounded shadow">
+            {toast}
           </div>
         </div>
       )}
