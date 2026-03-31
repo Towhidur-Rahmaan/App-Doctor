@@ -1,0 +1,400 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+    "title": "Chat Master",
+    "companyName": "TechSoft",
+    "id": 1,
+    "description": "A fast and secure messaging app.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 470 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+    "title": "Photo Editor Pro",
+    "companyName": "PixLab",
+    "id": 2,
+    "description": "Edit photos with advanced tools.",
+    "size": 60,
+    "reviews": 2200,
+    "ratingAvg": 4.6,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74",
+    "title": "Fitness Tracker",
+    "companyName": "Healthify",
+    "id": 3,
+    "description": "Track your daily workouts and calories.",
+    "size": 35,
+    "reviews": 900,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 240 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d",
+    "title": "Music Stream",
+    "companyName": "SoundWave",
+    "id": 4,
+    "description": "Listen to millions of songs online.",
+    "size": 55,
+    "reviews": 3500,
+    "ratingAvg": 4.7,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2320 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1501973801540-537f08ccae7b",
+    "title": "Weather Now",
+    "companyName": "SkyTech",
+    "id": 5,
+    "description": "Get real-time weather updates.",
+    "size": 25,
+    "reviews": 600,
+    "ratingAvg": 4.2,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db",
+    "title": "Note Keeper",
+    "companyName": "WriteEase",
+    "id": 6,
+    "description": "Save and organize your notes easily.",
+    "size": 20,
+    "reviews": 450,
+    "ratingAvg": 4.1,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 100 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d",
+    "title": "Budget Planner",
+    "companyName": "FinancePro",
+    "id": 7,
+    "description": "Manage your daily expenses.",
+    "size": 30,
+    "reviews": 800,
+    "ratingAvg": 4.4,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "title": "Language Learner",
+    "companyName": "LinguaTech",
+    "id": 8,
+    "description": "Learn new languages easily.",
+    "size": 40,
+    "reviews": 1600,
+    "ratingAvg": 4.6,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 810 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "title": "Code Editor",
+    "companyName": "DevTools",
+    "id": 9,
+    "description": "Powerful code editor for developers.",
+    "size": 50,
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "title": "Team Chat",
+    "companyName": "WorkSync",
+    "id": 10,
+    "description": "Collaborate with your team efficiently.",
+    "size": 42,
+    "reviews": 1800,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 730 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "title": "Online Courses",
+    "companyName": "EduPro",
+    "id": 11,
+    "description": "Learn new skills online.",
+    "size": 65,
+    "reviews": 3000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1550 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "title": "Camera Pro",
+    "companyName": "SnapTech",
+    "id": 12,
+    "description": "Capture stunning photos.",
+    "size": 48,
+    "reviews": 1400,
+    "ratingAvg": 4.4,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 420 }
+    ]
+  },
+
+  {
+    "id": 33,
+    "title": "Chat Master",
+    "companyName": "Social Apps Ltd.",
+    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432",
+    "description": "Chat and connect with friends worldwide.",
+    "size": 40,
+    "reviews": 500000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 240000 }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Music Dream",
+    "companyName": "SoundWave",
+    "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947",
+    "description": "Stream your favorite songs anytime.",
+    "size": 70,
+    "reviews": 900000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 450000 }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Photo Editor Pro",
+    "companyName": "PixLab",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "description": "Edit photos with advanced tools.",
+    "size": 55,
+    "reviews": 400000,
+    "ratingAvg": 4.5,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 155000 }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Fitness Tracker",
+    "companyName": "HealthTech",
+    "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74",
+    "description": "Track workouts and stay fit.",
+    "size": 35,
+    "reviews": 300000,
+    "ratingAvg": 4.3,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 18000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 110000 },
+      { "name": "5 star", "count": 110000 }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Food Express",
+    "companyName": "Foodies",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "description": "Order food from your favorite restaurants.",
+    "size": 65,
+    "reviews": 700000,
+    "ratingAvg": 4.4,
+    "downloads": 30000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 300000 }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Travel Guide",
+    "companyName": "Explore Inc.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Discover new places around the world.",
+    "size": 50,
+    "reviews": 250000,
+    "ratingAvg": 4.6,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "News Hub",
+    "companyName": "Media Corp",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c",
+    "description": "Stay updated with latest news.",
+    "size": 30,
+    "reviews": 200000,
+    "ratingAvg": 4.2,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 45000 }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Game Zone",
+    "companyName": "FunGames",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420",
+    "description": "Play exciting games anytime.",
+    "size": 120,
+    "reviews": 1000000,
+    "ratingAvg": 4.7,
+    "downloads": 80000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 550000 }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Shopping Mall",
+    "companyName": "ShopEasy",
+    "image": "https://cdn.sanity.io/images/nxpteyfv/goguides/79a9b07ad923b01abb813a34f461c0506e17ccb2-1600x1066.jpg",
+    "description": "Shop everything in one place.",
+    "size": 75,
+    "reviews": 600000,
+    "ratingAvg": 4.3,
+    "downloads": 40000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 220000 }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Weather Now",
+    "companyName": "ClimateTech",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "description": "Check weather updates instantly.",
+    "size": 25,
+    "reviews": 150000,
+    "ratingAvg": 4.5,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  }
+
+]
